@@ -5,7 +5,7 @@ function Home() {
   return (
     <div>
       <Header />
-      <div>Hello World</div>
+      <div>Hello Emre</div>
       <Footer />
     </div>
   );
